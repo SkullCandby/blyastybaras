@@ -1,5 +1,5 @@
 
-<template>
+<template style="background-color: #FCFDC7;">
   <v-app>
     <v-main style="background-color: #FCFDC7;">
       <v-container fill-height>
