@@ -4,7 +4,7 @@
         <v-row justify="center" align="center">
           <v-col cols="12" class="d-flex align-center justify-center">
             <span class="follow-text">follow us:</span>
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" class="twitter-icon">
+            <a href="https://twitter.com/blastybaras" target="_blank" rel="noopener noreferrer" class="twitter-icon">
               <!-- Use an img tag for your Twitter icon -->
               <img :src="twitterLogo" alt="Twitter" class="icon"/>
             </a>
